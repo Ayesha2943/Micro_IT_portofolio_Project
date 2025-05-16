@@ -28,10 +28,10 @@ I am passionate about innovation and constantly exploring new technologies to cr
 
 ## 📂 Projects  
 Here are some of the projects featured in my portfolio:  
-1. **Number Guessing Game** – Java-based interactive game  
-2. **ATM Interface** – Java-based banking system  
-3. **Online Examination System** – Automated platform with randomization  
-4. **Python Voice Assistant** – AI-powered voice assistant  
+1. ** BASIC CALCULATOR** 
+2. **CREDICT CARD FRAUD DETECTION**  
+3. **BASIC TO DO WEB APP** – Automated platform with randomization  
+4. **UBER TRIP ANALYSIS** – AI-powered voice assistant  
 5. **Weather Website** – Real-time weather updates  
 6. **Netflix Clone** – Streaming platform with authentication  
 
