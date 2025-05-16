@@ -28,12 +28,12 @@ I am passionate about innovation and constantly exploring new technologies to cr
 
 ## 📂 Projects  
 Here are some of the projects featured in my portfolio:  
-1. ** BASIC CALCULATOR** 
+1. ** BASIC CALCULATOR ** 
 2. **CREDICT CARD FRAUD DETECTION**  
-3. **BASIC TO DO WEB APP** – Automated platform with randomization  
-4. **UBER TRIP ANALYSIS** – AI-powered voice assistant  
-5. **Weather Website** – Real-time weather updates  
-6. **Netflix Clone** – Streaming platform with authentication  
+3. **BASIC TO DO WEB APP**   
+4. **UBER TRIP ANALYSIS**   
+5. **Weather Website**  
+6. **Netflix Clone** 
 
 ## 🔧 Setup & Installation  
 1. Clone this repository:  
